@@ -1,0 +1,5 @@
+.idea
+aoc-2022-lesson1/bin/*
+aoc-2022-lesson1/obj/*
+!aoc-2022-lesson1/obj/project.assets.json
+
