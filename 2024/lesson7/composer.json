@@ -1,0 +1,11 @@
+{
+    "name": "thomas/lesson7",
+    "autoload": {
+        "psr-4": {
+            "Thomas\\Lesson7\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.3"
+    }
+}
